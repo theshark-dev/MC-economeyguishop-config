@@ -1,0 +1,87 @@
+pages:
+  page1:
+    items:
+      '1':
+        material: APPLE
+        buy: 15
+        sell: 5
+      '2':
+        material: BREAD
+        buy: 15
+        sell: 5
+      '3':
+        material: CAKE
+        buy: 15
+        sell: 5
+      '4':
+        material: COOKED_SALMON
+        buy: 15
+        sell: 5
+      '5':
+        material: COOKIE
+        buy: 15
+        sell: 5
+      '6':
+        material: GLISTERING_MELON_SLICE
+        buy: 15
+        sell: 5
+      '7':
+        material: GLOW_BERRIES
+        buy: 15
+        sell: 5
+      '8':
+        material: GOLDEN_CARROT
+        buy: 15
+        sell: 5
+      '9':
+        material: HONEY_BOTTLE
+        buy: 15
+        sell: 5
+      '10':
+        material: BAKED_POTATO
+        buy: 15
+        sell: 5
+      '11':
+        material: COOKED_BEEF
+        buy: 15
+        sell: 5
+      '12':
+        material: COOKED_CHICKEN
+        buy: 15
+        sell: 5
+      '13':
+        material: COOKED_MUTTON
+        buy: 15
+        sell: 5
+      '14':
+        material: COOKED_PORKCHOP
+        buy: 15
+        sell: 5
+      '15':
+        material: COOKED_RABBIT
+        buy: 15
+        sell: 5
+      '16':
+        material: BEEF
+        buy: 15
+        sell: 5
+      '17':
+        material: CHICKEN
+        buy: 15
+        sell: 5
+      '18':
+        material: MUTTON
+        buy: 15
+        sell: 5
+      '19':
+        material: PORKCHOP
+        buy: 15
+        sell: 5
+      '20':
+        material: RABBIT
+        buy: 15
+        sell: 5
+      '21':
+        material: BEETROOT_SOUP
+        buy: 15
+        sell: 5

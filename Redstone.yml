@@ -1,0 +1,135 @@
+pages:
+  page1:
+    items:
+      '1':
+        material: CAULDRON
+        buy: 30
+        sell: 5
+      '2':
+        material: DAYLIGHT_DETECTOR
+        buy: 50
+        sell: 10
+      '3':
+        material: DISPENSER
+        buy: 40
+        sell: 10
+      '4':
+        material: DROPPER
+        buy: 10
+        sell: 2
+      '5':
+        material: HOPPER
+        buy: 40
+        sell: 10
+      '6':
+        material: IRON_DOOR
+        buy: 5
+        sell: 1
+      '7':
+        material: JUKEBOX
+        buy: 100
+        sell: 15
+      '8':
+        material: LEVER
+        buy: 1
+        sell: -1
+      '9':
+        material: LIGHTNING_ROD
+        buy: 3
+        sell: -1
+      '10':
+        material: NOTE_BLOCK
+        buy: 20
+        sell: 3
+      '11':
+        material: OBSERVER
+        buy: 20
+        sell: 5
+      '12':
+        material: REDSTONE_LAMP
+        buy: 50
+        sell: 10
+      '13':
+        material: REDSTONE_TORCH
+        buy: 5
+        sell: 1
+      '14':
+        material: RESPAWN_ANCHOR
+        buy: 500
+        sell: 10
+      '15':
+        material: TARGET
+        buy: 100
+        sell: 10
+      '16':
+        material: TRIPWIRE_HOOK
+        buy: 5
+        sell: -1
+      '17':
+        material: COMPARATOR
+        buy: 30
+        sell: 5
+      '18':
+        material: REPEATER
+        buy: 20
+        sell: 3
+      '19':
+        material: CHERRY_BUTTON
+        buy: 1
+        sell: -1
+      '20':
+        material: OAK_BUTTON
+        buy: 1
+        sell: -1
+      '21':
+        material: STONE_BUTTON
+        buy: 1
+        sell: -1
+      '22':
+        material: PISTON
+        buy: 20
+        sell: 5
+      '23':
+        material: STICKY_PISTON
+        buy: 20
+        sell: 5
+      '24':
+        material: CHERRY_PRESSURE_PLATE
+        buy: 1
+        sell: -1
+      '25':
+        material: OAK_PRESSURE_PLATE
+        buy: 1
+        sell: -1
+      '26':
+        material: STONE_PRESSURE_PLATE
+        buy: 1
+        sell: -1
+      '27':
+        material: LIGHT_WEIGHTED_PRESSURE_PLATE
+        buy: 1
+        sell: -1
+      '28':
+        material: HEAVY_WEIGHTED_PRESSURE_PLATE
+        buy: 1
+        sell: -1
+      '29':
+        material: CALIBRATED_SCULK_SENSOR
+        buy: 15
+        sell: 5
+      '30':
+        material: SCULK_SENSOR
+        buy: 100
+        sell: 30
+      '31':
+        material: CHERRY_TRAPDOOR
+        buy: 1
+        sell: -1
+      '32':
+        material: OAK_TRAPDOOR
+        buy: 1
+        sell: -1
+      '33':
+        material: IRON_TRAPDOOR
+        buy: 1
+        sell: -1

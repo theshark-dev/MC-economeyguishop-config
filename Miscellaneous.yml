@@ -1,0 +1,267 @@
+pages:
+  page1:
+    items:
+      '1':
+        material: ANVIL
+        buy: 200
+        sell: 50
+      '2':
+        material: AXOLOTL_BUCKET
+        buy: 20
+        sell: 5
+      '3':
+        material: BELL
+        buy: 200
+        sell: 50
+      '4':
+        material: BRUSH
+        buy: 10
+        sell: 1
+      '5':
+        material: CARROT_ON_A_STICK
+        buy: 10
+        sell: 1
+      '6':
+        material: COBWEB
+        buy: 50
+        sell: 10
+      '7':
+        material: COD_BUCKET
+        buy: 30
+        sell: 5
+      '8':
+        material: ELYTRA
+        buy: 2000
+        sell: 200
+      '9':
+        material: ENDER_CHEST
+        buy: 200
+        sell: 50
+      '10':
+        material: ENDER_EYE
+        buy: 10
+        sell: 2
+      '11':
+        material: EXPERIENCE_BOTTLE
+        buy: 100
+        sell: -1
+      '999':
+        material: FIREWORK
+        buy: 30
+        sell: 10
+        duration: 2
+        colors:
+        - cyan
+        - purple
+        fade-colors:
+        - black
+        - gray
+        flicker: true
+        trail: true
+        shape: BURST
+      '12':
+        material: GLOW_INK_SAC
+        buy: 5
+        sell: 1
+      '13':
+        material: GLOWSTONE_DUST
+        buy: 5
+        sell: 1
+      '14':
+        material: HONEYCOMB
+        buy: 5
+        sell: 1
+      '15':
+        material: LAVA_BUCKET
+        buy: 20
+        sell: 5
+      '16':
+        material: LEAD
+        buy: 20
+        sell: 5
+      '17':
+        material: LILY_PAD
+        buy: 30
+        sell: 5
+      '18':
+        material: LODESTONE
+        buy: 2000
+        sell: 200
+      '19':
+        material: MAP
+        buy: 20
+        sell: 5
+      '20':
+        material: MOSS_BLOCK
+        buy: 1
+        sell: -1
+      '21':
+        material: NAME_TAG
+        buy: 50
+        sell: 10
+      '22':
+        material: NETHER_STAR
+        buy: 2000
+        sell: 200
+      '23':
+        material: POWDER_SNOW_BUCKET
+        buy: 20
+        sell: 5
+      '24':
+        material: PUFFERFISH_BUCKET
+        buy: 30
+        sell: 5
+      '25':
+        material: RED_BED
+        buy: 10
+        sell: 20
+      '26':
+        material: SADDLE
+        buy: 50
+        sell: 10
+      '27':
+        material: SALMON_BUCKET
+        buy: 20
+        sell: 5
+      '28':
+        material: SCAFFOLDING
+        buy: 1
+        sell: -1
+      '29':
+        material: SHULKER_SHELL
+        buy: 20
+        sell: 1
+      '30':
+        material: SNIFFER_EGG
+        buy: 200
+        sell: 5
+      '31':
+        material: SNOW
+        buy: 8
+        sell: 1
+      '32':
+        material: SNOWBALL
+        buy: 2
+        sell: 1
+      '33':
+        material: SPONGE
+        buy: 50
+        sell: 10
+      '34':
+        material: SPYGLASS
+        buy: 5
+        sell: -1
+      '35':
+        material: TADPOLE_BUCKET
+        buy: 20
+        sell: 5
+      '36':
+        material: TOTEM_OF_UNDYING
+        buy: 100
+        sell: 25
+      '37':
+        material: TRIDENT
+        buy: 100
+        sell: 25
+      '38':
+        material: TROPICAL_FISH_BUCKET
+        buy: 25
+        sell: 5
+      '39':
+        material: TURTLE_EGG
+        buy: 15
+        sell: 3
+      '40':
+        material: WARPED_FUNGUS_ON_A_STICK
+        buy: 25
+        sell: 5
+      '41':
+        material: WATER_BUCKET
+        buy: 20
+        sell: 5
+      '42':
+        material: WRITABLE_BOOK
+        buy: 50
+        sell: 10
+      '43':
+        material: CREEPER_BANNER_PATTERN
+        buy: 200
+        sell: 10
+      '44':
+        material: FLOWER_BANNER_PATTERN
+        buy: 200
+        sell: 10
+  page2:
+    items:
+      '45':
+        material: GLOBE_BANNER_PATTERN
+        buy: 200
+        sell: 10
+      '46':
+        material: MOJANG_BANNER_PATTERN
+        buy: 200
+        sell: 10
+      '47':
+        material: PIGLIN_BANNER_PATTERN
+        buy: 200
+        sell: 10
+      '48':
+        material: SKULL_BANNER_PATTERN
+        buy: 200
+        sell: 10
+      '49':
+        material: CLOCK
+        buy: 40
+        sell: 10
+      '50':
+        material: COMPASS
+        buy: 20
+        sell: 5
+      '51':
+        material: RECOVERY_COMPASS
+        buy: 100
+        sell: 10
+      '52':
+        material: BIG_DRIPLEAF
+        buy: 10
+        sell: 2
+      '53':
+        material: SMALL_DRIPLEAF
+        buy: 10
+        sell: 2
+      '54':
+        material: BEACON
+        buy: 2000
+        sell: 100
+      '55':
+        material: END_ROD
+        buy: 2
+        sell: -1
+      '56':
+        material: LANTERN
+        buy: 10
+        sell: 1
+      '57':
+        material: SOUL_LANTERN
+        buy: 10
+        sell: 1
+      '58':
+        material: CAMPFIRE
+        buy: 20
+        sell: 5
+      '59':
+        material: SOUL_CAMPFIRE
+        buy: 20
+        sell: 5
+      '60':
+        material: SCULK
+        buy: 10
+        sell: 3
+      '61':
+        material: SCULK_CATALYST
+        buy: 1000
+        sell: 100
+      '62':
+        material: SCULK_SHRIEKER
+        buy: 1250
+        sell: 125
