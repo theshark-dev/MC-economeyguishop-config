@@ -1,7 +1,7 @@
 # EconomeyShop-Gui
-**قیمت آیتم ها کاملا کاستوم میباشد
-مناسب برای SMP هایی که درآمد سخت هست توش
+**قیمت آیتم ها کاملا کاستوم میباشد**
 
-برقراری ارتباط:
-Discord: theshark_ku
-Telegram: theshark_man**
+
+**برقراری ارتباط:
+دیسکورد: theshark_ku
+تلگرام: theshark_man**
