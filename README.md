@@ -1,7 +1,6 @@
 # EconomeyShop-Gui
-**قیمت آیتم ها کاملا کاستوم میباشد**
 
+**The Prices are All Custom for a SMP Server**
 
-**برقراری ارتباط:
-دیسکورد: theshark_ku
-تلگرام: theshark_man**
+***Any BUG?!***
+*Content me on Discord: theshark_ku*
